@@ -8,6 +8,10 @@
   },
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nithin-kasturi/node-app.git"
+  },
   "dependencies": {
     "express": "^5.1.0"
   }
